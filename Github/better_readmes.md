@@ -5,6 +5,7 @@ date: "15-07-2020"
 tags:
 - programming
 - documentation
+slug: "github-my-first-post"
 
 title: Better ReadMe's
 ---
