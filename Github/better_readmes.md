@@ -5,7 +5,7 @@ date: "15-07-2020"
 tags:
 - programming
 - documentation
-slug: "github-my-first-post"
+slug: "better-readmes"
 title: Better ReadMe's
 ---
 The full blog post can be found at:
