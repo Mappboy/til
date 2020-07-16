@@ -6,7 +6,6 @@ tags:
 - programming
 - documentation
 slug: "github-my-first-post"
-
 title: Better ReadMe's
 ---
 The full blog post can be found at:
