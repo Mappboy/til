@@ -6,6 +6,7 @@ date: "15-07-2020"
 tags:
 - programming
 - gis
+slug: "osm-data-downloads"
 title: OSM data downloads
 ---
 Downloading OSM large data extracts is seriously easy.
