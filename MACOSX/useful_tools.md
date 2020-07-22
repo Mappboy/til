@@ -33,9 +33,6 @@ A friendly reminder to myself use some of these tools more.
 - [tmux](https://github.com/tmux/tmux/wiki) - terminal multiplexer
 - [jq](https://stedolan.github.io/jq/) - JSON querier
 
-- datamash
-- enhancd
-
 ## fish shell links
 - https://github.com/Gazorby/fish-abbreviation-tips
 - [fzf](https://github.com/jethrokuan/fzf) - fzf for fish
